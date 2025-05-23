@@ -114,8 +114,10 @@ The circuit involves basic electronic components and uses **BC547 transistor**, 
 5. When the tank is full, the system automatically cuts power to the motor and activates **alerts**.
 
 ---
-# Watch demo Video 
-Youtube -----------
+Full video here 👇
+## 📽️ Watch Demo Video
+
+🔗 [Watch the prototype in action](#) *(https://youtu.be/RxTgxVklkms)*
 
 ## 🧠 Future Improvements
 
