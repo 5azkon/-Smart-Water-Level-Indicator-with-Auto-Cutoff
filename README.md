@@ -6,7 +6,7 @@ This project is designed to **prevent water tank overflow** by automatically swi
 
 ---
 # Prototype
-![]()
+![](PROTOTYPE/model.jpg)
 
 ## 🎯 Problem Statement
 
@@ -31,6 +31,8 @@ The solution is a **mechanical switch system** based on a **floating plastic bal
 The circuit involves basic electronic components and uses **BC547 transistor**, **7805 voltage regulator**, **relay**, and supporting components.
 
 ---
+# Simulation (Proteus)
+![]()
 
 ## 🧰 Components Used
 
